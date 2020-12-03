@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1602944882 source:c:\users\user\downloads\igraphics-master\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1602944882 c:\users\user\downloads\igraphics-master\igraphics-master\igraphics.h
+	"OpenGL/include/glut.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"OpenGL/include/stb_image.h"
+
+1602944882 c:\users\user\downloads\igraphics-master\igraphics-master\opengl\include\glut.h
+	"freeglut_std.h"
+
+1602944882 c:\users\user\downloads\igraphics-master\igraphics-master\opengl\include\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1602944882 c:\users\user\downloads\igraphics-master\igraphics-master\opengl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1602944882 source:c:\users\user\downloads\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+
+1602944882 source:c:\users\user\desktop\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+
+1604808601 c:\users\user\desktop\igraphics-master\igraphics-master\igraphics.h
+	"OpenGL/include/glut.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"OpenGL/include/stb_image.h"
+
+1604808586 c:\users\user\desktop\igraphics-master\igraphics-master\opengl\include\glut.h
+	"freeglut_std.h"
+
+1604808586 c:\users\user\desktop\igraphics-master\igraphics-master\opengl\include\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1604808586 c:\users\user\desktop\igraphics-master\igraphics-master\opengl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1603337423 source:c:\users\user\desktop\igraphics-master\igraphics-master\sadat.cpp
+	"iGraphics.h"
+	<math.h>
+
+1604808680 source:c:\users\user\desktop\igraphics-master\igraphics-master\1905001_curves.cpp
+	"iGraphics.h"
+	<string.h>
+	<math.h>
+
+1604808586 c:\users\user\desktop\igraphics-master\igraphics-master\opengl\include\gl\gl.h
+	<winapifamily.h>
+
+1604808586 c:\users\user\desktop\igraphics-master\igraphics-master\opengl\include\gl\glu.h
+	<winapifamily.h>
+	<GL/gl.h>
+
